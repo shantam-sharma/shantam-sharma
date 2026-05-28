@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./assets/banner.gif" width="100%" />
-
+### Backend Developer • Systems Engineering Enthusiast
 </div>
 
 
