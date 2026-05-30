@@ -1,21 +1,21 @@
 <div align="center">
 
 <img src="./assets/banner.gif" width="100%" />
-### Backend Developer • Systems Engineering Enthusiast
+
 </div>
 
+Aayush Shantam
+Backend Engineer | Go Developer
 
-<!--
-**shantam-sharma/shantam-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Computer Science undergraduate building APIs and backend systems with Go and PostgreSQL.
 
-Here are some ideas to get you started:
+📍 Madhya Pradesh, India
+🌍 Open to Remote Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shantam-sharma&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
