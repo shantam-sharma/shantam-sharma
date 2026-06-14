@@ -72,6 +72,12 @@ MATLAB
 </tr>
 </table>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -82,3 +88,4 @@ MATLAB
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
 </p>
+
