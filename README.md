@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/F1.webp" width="100%" />
+<img src="./assets/banner.gif" width="100%" />
 
 </div>
 
