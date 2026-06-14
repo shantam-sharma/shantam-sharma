@@ -4,8 +4,9 @@
 
 </div>
 
-Aayush Shantam
-Backend Engineer | Go Developer
+# Aayush Shantam
+
+### Backend Engineer | Go Developer
 
 Backend-focused Computer Science undergraduate building APIs and backend systems with Go and PostgreSQL.
 
@@ -14,8 +15,20 @@ Backend-focused Computer Science undergraduate building APIs and backend systems
 
 # 💻 Tech Stack:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shantam-sharma&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+| Category | Technologies |
+|-----------|-------------|
+| Languages | C, C++, Go, Java, JavaScript, Python, Rust, Elixir |
+| Backend | Go, Node.js, Express.js |
+| Frontend | HTML5, CSS3, React, Next.js, Tailwind CSS, Bulma |
+| Databases | PostgreSQL, MySQL, SQLite |
+| DevOps & Tools | Docker, Git, Postman, Linux, Bash |
+| Design & Creative | Figma, Photoshop, Blender |
+| Engineering & Computing | MATLAB |
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=shantam-sharma&theme=aura&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
