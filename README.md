@@ -13,6 +13,12 @@ Backend-focused Computer Science undergraduate building APIs and backend systems
 📍 Madhya Pradesh, India
 🌍 Open to Remote Opportunities
 
+## 🚀 Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git" />
+</p>
+
 # 💻 Tech Stack:
 
 <table>
