@@ -75,10 +75,10 @@ MATLAB
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=aura&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
 </p>
