@@ -6,26 +6,20 @@
 
 # Aayush Shantam
 
-### Backend Engineer · Go Developer
+### Backend Engineer | Go Developer
 
-Building systems that work quietly in the background.
+Backend-focused Computer Science undergraduate building APIs and backend systems with Go and PostgreSQL.
 
-Focused on **Go, PostgreSQL, distributed systems**,
-and increasingly **Elixir & the BEAM ecosystem**.
+📍 Madhya Pradesh, India
+🌍 Open to Remote Opportunities
 
-📍 India &nbsp; · &nbsp; 🌍 Open to Work
-
----
-
-## ⚙️ Core Technologies
+## 🚀 Core Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,elixir,cpp,postgres,docker,linux,git" />
 </p>
 
----
-
-## 💻 Tech Stack
+# 💻 Tech Stack:
 
 <table>
 <tr>
@@ -62,35 +56,29 @@ and increasingly **Elixir & the BEAM ecosystem**.
 <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,bash" />
 </td>
 </tr>
+
+<tr>
+<td><strong>Design & Creative</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Engineering</strong></td>
+<td>
+MATLAB
+</td>
+</tr>
 </table>
 
----
-
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shantam-sharma&bg_color=0d1117&color=c9d1d9&line=84934a&point=d6d9c7&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-## 🗓️ Contribution Calendar
-
-<p align="center">
-  <img
-    src="./assets/github/contributions.svg"
-    width="100%"
-    alt="GitHub Contribution Calendar"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="170" />
@@ -98,5 +86,5 @@ and increasingly **Elixir & the BEAM ecosystem**.
 </p>
 
 <p align="center">
-  <img src="./assets/github/streak.svg" height="170" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
 </p>
