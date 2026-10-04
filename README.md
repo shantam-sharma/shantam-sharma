@@ -98,5 +98,5 @@ and increasingly **Elixir & the BEAM ecosystem**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
+  <img src="./assets/github/streak.svg" height="170" alt="Streak" />
 </p>
