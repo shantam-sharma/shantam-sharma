@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/greek.jpeg" width="100%" height="250" />
+<img src="./assets/greek.png" width="100%" height="250" />
 
 </div>
 
