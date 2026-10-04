@@ -12,6 +12,7 @@ jobs:
   profile:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         theme: [light, dark]
 
@@ -47,7 +48,13 @@ jobs:
       # -------------------------------
       # Upload theme artifact (avoid parallel push races)
       # -------------------------------
+      - name: Show generated files
+        run: |
+          echo "Listing assets/github/${{ matrix.theme }}"
+          ls -la assets/github || true
+
       - name: Upload theme artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.theme }}
