@@ -8,10 +8,12 @@
 
 ### Backend Engineer · Go Developer
 
-Backend-focused Computer Science undergraduate building APIs, backend services, and scalable systems with **Go** and **PostgreSQL**.
-Currently exploring **Elixir, OTP, and the BEAM ecosystem**.
+Building systems that work quietly in the background.
 
-📍 Madhya Pradesh, India &nbsp; · &nbsp; 🌍 Open to Remote Opportunities
+Focused on **Go, PostgreSQL, distributed systems**,
+and increasingly **Elixir & the BEAM ecosystem**.
+
+📍 India &nbsp; · &nbsp; 🌍 Open to Work
 
 ---
 
@@ -60,41 +62,30 @@ Currently exploring **Elixir, OTP, and the BEAM ecosystem**.
 <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,bash" />
 </td>
 </tr>
-
-<tr>
-<td><strong>Design & Creative</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
-</td>
-</tr>
-
-<tr>
-<td><strong>Engineering</strong></td>
-<td>
-MATLAB
-</td>
-</tr>
 </table>
 
 ---
 
-## 🔨 Currently Building
+## 📈 GitHub Activity
 
-**Conclave**
-A developer-focused community platform exploring real-time communication, backend architecture, and the Elixir/BEAM ecosystem.
-
-**Concurrent Research Scraper**
-A concurrent research-paper ingestion system built around **Elixir, OTP, and Ecto**.
-
-**Backend Systems**
-Building APIs and backend services with **Go, PostgreSQL, Docker, and REST**.
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shantam-sharma&bg_color=0d1117&color=c9d1d9&line=84934a&point=d6d9c7&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <img
+    src="./assets/contribution-calendar.svg"
+    width="100%"
+    alt="GitHub Contribution Calendar"
+  />
 </p>
 
 ---
@@ -105,15 +96,12 @@ Building APIs and backend services with **Go, PostgreSQL, Docker, and REST**.
   <img
     src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"
     height="170"
+    alt="GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true"
+    alt="Top Languages"
   />
 </p>
