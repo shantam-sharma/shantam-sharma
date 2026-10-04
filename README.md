@@ -78,6 +78,16 @@ MATLAB
   <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+## 🗓️ Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github/dark/contributions.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github/light/contributions.svg">
+    <img src="./assets/github/dark/contributions.svg" width="100%" alt="GitHub Contribution Calendar" />
+  </picture>
+</p>
+
 # 📊 GitHub Stats:
 
 <p align="center">
