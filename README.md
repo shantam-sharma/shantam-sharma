@@ -82,7 +82,7 @@ and increasingly **Elixir & the BEAM ecosystem**.
 
 <p align="center">
   <img
-    src="./assets/contribution-calendar.svg"
+    src="./assets/github/contributions.svg"
     width="100%"
     alt="GitHub Contribution Calendar"
   />
