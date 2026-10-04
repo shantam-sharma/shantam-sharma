@@ -10,8 +10,8 @@
 
 Backend-focused Computer Science undergraduate building APIs and backend systems with Go and PostgreSQL.
 
-📍 Madhya Pradesh, India
-🌍 Open to Remote Opportunities
+📍 India
+🌍 Open to work
 
 ## 🚀 Core Technologies
 
