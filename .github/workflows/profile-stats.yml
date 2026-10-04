@@ -19,6 +19,9 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v7
 
+      - name: Prepare output directory
+        run: mkdir -p assets/github/${{ matrix.theme }}
+
       # -------------------------------
       # Contribution Calendar
       # -------------------------------
