@@ -1,0 +1,58 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      # -------------------------------
+      # Contribution Calendar
+      # -------------------------------
+      - name: Generate contribution calendar
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: shantam-sharma
+          cards: contributions
+          output-dir: profile
+          themes: light,dark
+          commit: false
+
+      # -------------------------------
+      # Streak
+      # -------------------------------
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=shantam-sharma&theme=default&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------
+      # Commit generated files
+      # -------------------------------
+      - name: Commit generated profile assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          if git diff --cached --quiet; then
+            echo "No profile changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update profile stats"
+          git push

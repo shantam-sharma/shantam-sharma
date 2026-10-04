@@ -93,15 +93,10 @@ and increasingly **Elixir & the BEAM ecosystem**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+</p>
 
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    height="170"
-    alt="Top Languages"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
 </p>
