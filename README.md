@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="./assets/greek.png" width="100%" height="250" />
+<img src="./assets/greek.jpeg" width="100%" height="250" />
 
 </div>
 
 # Aayush Shantam
 
-### Backend Engineer | Go Developer
+### Backend Engineer · Go Developer
 
-Backend-focused Computer Science undergraduate building APIs and backend systems with Go and PostgreSQL.
+Backend-focused Computer Science undergraduate building APIs, backend services, and scalable systems with **Go** and **PostgreSQL**.
+Currently exploring **Elixir, OTP, and the BEAM ecosystem**.
 
-📍 Madhya Pradesh, India
-🌍 Open to Remote Opportunities
+📍 Madhya Pradesh, India &nbsp; · &nbsp; 🌍 Open to Remote Opportunities
 
-## 🚀 Core Technologies
+---
+
+## ⚙️ Core Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,elixir,cpp,postgres,docker,linux,git" />
 </p>
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack
 
 <table>
 <tr>
@@ -72,20 +76,44 @@ MATLAB
 </tr>
 </table>
 
+---
+
+## 🔨 Currently Building
+
+**Conclave**
+A developer-focused community platform exploring real-time communication, backend architecture, and the Elixir/BEAM ecosystem.
+
+**Concurrent Research Scraper**
+A concurrent research-paper ingestion system built around **Elixir, OTP, and Ecto**.
+
+**Backend Systems**
+Building APIs and backend services with **Go, PostgreSQL, Docker, and REST**.
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shantam-sharma/shantam-sharma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantam-sharma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=shantam-sharma&theme=highcontrast&hide_border=true"
+  />
 </p>
-
